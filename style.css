@@ -1,0 +1,32 @@
+body {
+	background: url("4.jpg") no-repeat center center fixed;
+	background-size: cover;
+	height: 100%;
+}
+
+.jumbotron {
+	background: none;
+}
+
+.display-4 {
+	color: white;
+	text-transform: capitalize;
+	text-shadow: 5px 3px red;
+}
+
+p {
+	color: black;
+	font-size: 30px;
+	margin-top: 4em;
+}
+
+.btn {
+	background-color: red;
+}
+
+.btn-primary: hover {
+	background-color: yellow;
+}
+.white {
+	color: white;
+}
