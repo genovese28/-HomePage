@@ -1,32 +1,40 @@
 body {
-	background: url("header.jpg") no-repeat center center fixed;
-	background-size: cover;
-	height: 100%;
+  background: url('header.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
 }
 
 .jumbotron {
-	background: none;
+  background: none;
 }
 
 .display-4 {
-	color: white;
-	text-transform: capitalize;
-	text-shadow: 5px 3px red;
+  color: white;
+  text-transform: capitalize;
+  text-shadow: 5px 3px red;
 }
 
 p {
-	color: black;
-	font-size: 30px;
-	margin-top: 4em;
+  color: black;
+  font-size: 30px;
+  margin-top: 4em;
 }
 
 .btn {
-	background-color: red;
+  background-color: rgb(0, 217, 255);
+}
+
+.btn2 {
+  background-color: rgb(137, 43, 226);
+}
+
+.btn3 {
+  background-color: fuchsia;
 }
 
 .btn-primary: hover {
-	background-color: yellow;
+  background-color: yellow;
 }
 .white {
-	color: white;
+  color: white;
 }
