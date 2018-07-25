@@ -1,2 +1,2 @@
-# genovese28.github.io is my personal website 
-HTML, Bootstrap, CSS
+# genovese28.github.io 
+personal website utilizing HTML, Bootstrap, CSS
