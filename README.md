@@ -1,8 +1,8 @@
  
-personal website utilizing HTML, Bootstrap, CSS
+My personal website utilizing HTML, Bootstrap, CSS
 
 
-[live site](genovese28.github.io)
+[live site](https://genovese28.github.io)
 
 
 ![Screenshot](website.png)
